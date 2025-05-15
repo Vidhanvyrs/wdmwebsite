@@ -22,7 +22,7 @@ const Footer = () => {
             />
           </div>
           <span className="text-xs text-gray-300">
-            © {currentYear} wdm, All rights reserved
+            © {currentYear} wdm(where's dat money), All rights reserved
           </span>
         </div>
 
