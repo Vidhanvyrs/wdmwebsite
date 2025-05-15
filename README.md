@@ -1,6 +1,6 @@
 We are currently in beta phase and we are looking for your support. Please consider donating to us.
 
-<a href="https://buymeacoffee.com/vidhanvyrs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/vidhanvyrsy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # wdm - Minimal Expense Tracker
 
