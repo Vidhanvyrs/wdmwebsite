@@ -29,13 +29,14 @@ const Footer = () => {
         {/* Right section - Links */}
         <div className="flex flex-wrap justify-center md:justify-end gap-4 md:gap-6">
           <a
-            href="#"
+            href="https://vanilla-nut-5bb.notion.site/Privacy-Policy-1f42898f76bd80ab9691eac45470dd1c?pvs=4"
+            target="_blank"
             className="text-sm text-gray-300 hover:text-white transition-colors"
           >
             Privacy Policy
           </a>
           <a
-            href="#"
+            href="www.linkedin.com/in/vidhan-solanki-dotlasher001"
             className="text-sm text-gray-300 hover:text-white transition-colors"
             target="_blank"
             rel="noopener noreferrer"
@@ -43,7 +44,8 @@ const Footer = () => {
             LinkedIn
           </a>
           <a
-            href="#"
+            href="https://vanilla-nut-5bb.notion.site/Terms-Conditions-1f42898f76bd80c288e7d74f3deac3a2?pvs=4"
+            target="_blank"
             className="text-sm text-gray-300 hover:text-white transition-colors"
           >
             Terms & Conditions
