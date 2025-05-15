@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --gradient-start: #020024;
+  --gradient-mid: #090979;
+  --gradient-end: #00d4ff;
 }
 
 @theme inline {
@@ -14,13 +17,23 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #0c0d23;
     --foreground: #ededed;
+    /* You can adjust these for dark mode if needed */
+    --gradient-start: #020024;
+    --gradient-mid: #22227a;
+    --gradient-end: #02819b;
   }
 }
 
 body {
-  background: var(--background);
+  background: linear-gradient(
+      90deg,
+      var(--gradient-start) 0%,
+      var(--gradient-mid) 35%,
+      var(--gradient-end) 100%
+    ),
+    var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
 }

@@ -1,9 +1,9 @@
-import Main from "@/components/Main";
+import Pricing from "@/components/Pricing";
 
 export default function Home() {
   return (
     <main className="overflow-x-hidden overflow-y-hidden">
-      <Main />
+      <Pricing />
     </main>
   );
 }
