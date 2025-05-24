@@ -31,7 +31,7 @@ const Main = () => {
           transition: { duration: 0.5 },
         }}
       >
-        <Timer />
+        {/* <Timer /> */}
         <h1 className="text-4xl sm:text-5xl font-bold leading-tight">
           Breathe the Air of Minimal Expenses through us.
         </h1>
